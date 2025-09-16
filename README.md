@@ -1,4 +1,4 @@
-## Hi there 👋
+## I’m currently learning javascript and react for 411W, I have taken classes in Java and Python. 
 
 <!--
 **Bobatroll/Bobatroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
